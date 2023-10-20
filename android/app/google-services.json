@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104267904832",
+    "project_id": "allindiyamanufacturer",
+    "storage_bucket": "allindiyamanufacturer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104267904832:android:339f08b539edf5e76b2ca5",
+        "android_client_info": {
+          "package_name": "com.example.pushnotificationdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzmpbvgC-pCTrhLaodDJsD44fuPUGyphw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
